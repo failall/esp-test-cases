@@ -1,0 +1,37 @@
+#### My Own TestCases - Made with love <3333
+
+[[testcases]]
+name = "Input Checkeroo"
+description = "Checks for error messages, and various types of input cases"
+type = "OrdIO"
+io_file = "tests/12/io.txt"
+io_prompt = "s*>\\s*$"
+exp_exit_code = 0
+argv = ["configs/config_03.txt"]
+
+[[testcases]]
+name = "Magic Number"
+description = "PI = 3, g = 10"
+type = "OrdIO"
+io_file = "tests/13/io.txt"
+io_prompt = "s*>\\s*$"
+exp_exit_code = 3
+argv = ["configs/config_12.txt"]
+
+[[testcases]]
+name = "A Touch Too Much Parameters"
+description = "Checks if the amount of program parameters is correct"
+type = "OrdIO"
+io_file = "tests/14/io.txt"
+io_prompt = "s*>\\s*$"
+exp_exit_code = 1
+argv = ["configs/config_01.txt", "param2", "param3"]
+
+[[testcases]]
+name = "Same Points with first and second row equally long"
+description = "Both players win, checks for correct print order. Also checks if the first row is doubled"
+type = "OrdIO"
+io_file = "tests/15/io.txt"
+io_prompt = "s*>\\s*$"
+exp_exit_code = 0
+argv = ["configs/config_01.txt"]

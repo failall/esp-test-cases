@@ -1,0 +1,111 @@
+> Welcome to SyntaxSakura (2 players are playing)!
+> 
+> -------------------
+> CARD CHOOSING PHASE
+> -------------------
+> 
+> Player 1:
+>   hand cards: 4_b 9_g 10_b 24_g 37_r 45_g 58_b 65_r 91_w 92_b
+>   chosen cards:
+> 
+> Please choose a first card to keep:
+? P1 > 
+< 
+> Please enter the number of a card in your hand cards!
+? P1 > 
+<      
+> Please enter the number of a card in your hand cards!
+? P1 > 
+< no card for you!
+> Please enter the number of a card in your hand cards!
+? P1 > 
+< 4    
+> Please choose a second card to keep:
+? P1 > 
+<     9    
+> 
+> Player 2:
+>   hand cards: 15_g 28_w 29_r 51_g 56_w 83_r 84_w 99_g 107_r 116_b
+>   chosen cards:
+> 
+> Please choose a first card to keep:
+? P2 > 
+<   15
+> Please choose a second card to keep:
+? P2 > 
+<  28  
+> 
+> Card choosing phase is over - passing remaining hand cards to the next player!
+> 
+> ------------
+> ACTION PHASE
+> ------------
+> 
+> Player 1:
+>   hand cards: 29_r 51_g 56_w 83_r 84_w 99_g 107_r 116_b
+>   chosen cards: 4_b 9_g
+> 
+> What do you want to do?
+? P1 > 
+< HElp
+> 
+> Available commands:
+> 
+> - help
+>   Display this help message.
+> 
+> - place <row number> <card number>
+>   Append a card to the chosen row or if the chosen row does not exist create it.
+> 
+> - discard <card number>
+>   Discard a card from the chosen cards.
+> 
+> - quit
+>   Terminate the program.
+> 
+> 
+> Player 1:
+>   hand cards: 29_r 51_g 56_w 83_r 84_w 99_g 107_r 116_b
+>   chosen cards: 4_b 9_g
+> 
+> What do you want to do?
+? P1 > 
+< PLACE 0 2^
+> Please enter a valid row number!
+? P1 > 
+< place 1    4   
+> 
+> Player 1:
+>   hand cards: 29_r 51_g 56_w 83_r 84_w 99_g 107_r 116_b
+>   chosen cards: 9_g
+>   row_1: 4_b
+> 
+> What do you want to do?
+? P1 > 
+< DISCARD MONEYFORNOTHING
+> Please enter the number of a card in your chosen cards!
+? P1 > 
+< ThisIsAVeryLOngInput.IJustCheckThisBecauseIHadSomeProblemsWithHowIDidTHisAndHadSomeWHoopsies!AndIfYouHaveReadThisFar-Congrats!MyLittlePogchampUwU
+> Please enter a valid command!
+? P1 > 
+< discard 4 4
+> Please enter the correct number of parameters!
+? P1 > 
+<     DIScard     4
+> Please enter the number of a card in your chosen cards!
+? P1 > 
+< DISCard   9  
+> 
+> Player 1:
+>   hand cards: 29_r 51_g 56_w 83_r 84_w 99_g 107_r 116_b
+>   chosen cards:
+>   row_1: 4_b
+> 
+> 
+> Player 2:
+>   hand cards: 10_b 24_g 37_r 45_g 58_b 65_r 91_w 92_b
+>   chosen cards: 15_g 28_w
+> 
+> What do you want to do?
+? P2 > 
+< QUiT

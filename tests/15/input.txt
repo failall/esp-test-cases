@@ -1,0 +1,40 @@
+38
+48
+30
+44
+place 1 38
+place 2 48
+place 1 44
+place 2 30
+5
+29
+14
+28
+discard 5
+discard 29
+discard 14
+discard 28
+56
+57
+33
+37
+discard 56
+discard 57
+discard 33
+discard 37
+60
+61
+67
+81
+discard 60
+discard 61
+discard 67
+discard 81
+89
+119
+110
+115
+discard 89
+discard 119
+discard 110
+discard 115
