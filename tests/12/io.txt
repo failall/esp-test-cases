@@ -85,6 +85,12 @@
 < DISCARD MONEYFORNOTHING
 > Please enter the number of a card in your chosen cards!
 ? P1 > 
+< 
+> Please enter a valid command!
+? P1 > 
+<      
+> Please enter a valid command!
+? P1 > 
 < ThisIsAVeryLOngInput.IJustCheckThisBecauseIHadSomeProblemsWithHowIDidTHisAndHadSomeWHoopsies!AndIfYouHaveReadThisFar-Congrats!MyLittlePogchampUwU
 > Please enter a valid command!
 ? P1 > 
@@ -108,4 +114,11 @@
 > 
 > What do you want to do?
 ? P2 > 
+< mv my_hope /dev/null/
+> Please enter a valid command!
+? P2 > 
+< QuiT oy mate
+> Please enter the correct number of parameters!
+? P2 > 
 < QUiT
+
